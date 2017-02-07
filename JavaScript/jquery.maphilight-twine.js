@@ -1,4 +1,4 @@
-// Tweaked version of maphilight (12-06-2016 build)
+// Tweaked version of maphilight (12-06-2016 build) to work with SugarCube 2 and Twine
 //  - Use window instead of this for IFFE
 //  - Fixed missing var
 
